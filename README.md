@@ -22,7 +22,3 @@ Maqsad: kitoblarni qidirish, hisobga olish, berish va qaytarish jarayonlarini av
 - O‘rmonjonova Dilshoda
 - Oxunova Umida
 - Raxmonberdiyeva Umida
-- Murotova Noila
-- O‘rmonjonova Dilshoda
-- Oxunova Umida
-- Raxmonberdiyeva Umida
